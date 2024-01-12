@@ -1,4 +1,4 @@
-# Hosting and Creating a Static Website on S3
+# Create S3 Bucket Using CLI
 
 ## Overview
 In this lab, we practice using AWS Command Line Interface (AWS CLI) commands from an Amazon Elastic Compute Cloud (Amazon EC2) instance to:
@@ -8,8 +8,6 @@ In this lab, we practice using AWS Command Line Interface (AWS CLI) commands fro
 - Create a new AWS Identity and Access Management (IAM) user that has full access to the Amazon S3 service.
 
 - Upload files to Amazon S3 to host a simple website for the Café & Bakery.
-
-- Create a batch file that can be used to update the static website when you change any of the website files locally.
 
 ![architecture](https://github.com/Cloud-Xplorer08/Host-Website-on-S3/assets/71820244/d0da764e-2615-486a-ab67-27ffa4af043e)
 
